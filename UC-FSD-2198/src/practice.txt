@@ -1,0 +1,31 @@
+
+Write a program to print the below pattern.
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+1 2 3 4 5 6
+1 2 3 4 5 6 7
+1 2 3 4 5 6 7 8
+
+
+Write a program to find out odd numbers in first 100 integers
+
+Write a program that checks and prints all prime numbers from 1 to 1000
+
+Declare a string to store a user's name and a character to store the user’s gender.
+
+Write a Java program to perform the following operations:
+Take an input string in upper case.
+Convert the case of the string into lower case.
+Determine the length of the string.
+
+
+Suppose a few students have scored certain marks in Mathematics, and their marks are stored in an array as follows:
+mathMarks = [20,40,45,43,29,38,33];
+
+You need to determine the highest marks obtained by a student.
+
+
+PRACTICE GIT COMMANDS AND APPROACHES.
